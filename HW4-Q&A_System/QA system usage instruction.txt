@@ -1,0 +1,18 @@
+Here are the steps to take to conduct new experiments on the developed QA system (2 methods included). Please choose the convenient way for you. Thank you!
+
+Method 1 (py file command line):
+
+1. download the whole github repo
+
+2. in commandline/terminal, run the experiment as the example below shows:
+    python QA_client.py "Who is the CEO of Leucadia?"
+
+Method 2 (jupyter notebook):
+
+1. open the jupyter notebook QA_system.ipynb
+
+2. run all the code blocks and stop before 'Sample Experiments'
+
+3. add new experiments by running main('{New Experiment Question}')
+
+4. wait and see the answer
